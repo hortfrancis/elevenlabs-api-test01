@@ -1,0 +1,8 @@
+# API key
+.env
+
+# Node modules
+node_modules/
+
+# Test audio files returned from the API
+audio/
