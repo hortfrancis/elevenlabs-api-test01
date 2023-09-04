@@ -31,7 +31,7 @@ Check the console to see whether
 - the request to the ElevenLabs API was successful
 - the audio was succesfully streamed to the web browser
 
-## Dependenciea
+## Dependencies
 
 Node modules:
 - dotenv
